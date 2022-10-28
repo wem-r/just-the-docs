@@ -18,7 +18,7 @@
 The quickiest way to use Just The Docs is to use GitHub pages [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/) feature in your `_config.yml` file:
 
 ```yaml
-remote_theme: just-the-docs/just-the-docs
+remote_theme: wem-r/just-the-docs
 ```
 ### via RubyGems:
 
